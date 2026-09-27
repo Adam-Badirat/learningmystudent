@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+}
+h2{
+    font-size: 50px;
+}
+.you{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+}
+#let{
+    background-color: rgb(123, 119, 119);
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    list-style-type: none;
+    font-size: 20px;
+    /* list-style-type: square; */
+}
